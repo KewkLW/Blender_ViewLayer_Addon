@@ -22,6 +22,9 @@ It's always great to support excellent work, so consider making a donation to to
 3. Locate the `Tool` tab. You should see a panel named `View Layer List`.
 4. The panel will list all the view layers in the current scene, along with checkboxes to enable or disable them for rendering.
 
+![image](https://github.com/KewkLW/Blender_ViewLayer_Addon/assets/57611539/6e562a85-0714-43f5-978f-667257f9c86a)
+
+
 ## Support
 
 Figure it out bro. 
