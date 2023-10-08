@@ -18,9 +18,9 @@ It's always great to support excellent work, so consider making a donation to to
 ## Usage
 
 1. Open Blender and switch to the 3D View.
-2. Open the Sidebar by pressing the `N` key or clicking on the arrow icon at the top right corner of the 3D View.
-3. Locate the `Tool` tab. You should see a panel named `View Layer List`.
-4. The panel will list all the view layers in the current scene, along with checkboxes to enable or disable them for rendering.
+2. Locate the `Tool` tab. You should see a panel named `View Layer List`.
+3. The panel will list all the view layers in the current scene, along with checkboxes to enable or disable them for rendering.
+4. Profit
 
 ![image](https://github.com/KewkLW/Blender_ViewLayer_Addon/assets/57611539/6e562a85-0714-43f5-978f-667257f9c86a)
 
